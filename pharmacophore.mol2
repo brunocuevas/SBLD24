@@ -1,0 +1,13 @@
+@<TRIPOS>MOLECULE
+Molecule pharmacophore
+     1     0
+SMALL
+NO_CHARGES
+@<TRIPOS>ATOM
+      5 ACC        11.7850    1.2166   17.2127 HB    4     HB      0.0000
+      8 ACC        12.4188    9.2759   12.8937 HB    7     HB      0.0000
+     10 AR         14.6803    3.0233   15.4503 AR    9     AR      0.0000
+     11 AR         13.2535    6.8434   13.8928 AR    10    AR      0.0000
+     12 DON        12.2535    8.8434   15.8928 HB    10    HB      0.0000
+     13 HYD        12.2535    8.8434   15.8928 HB    10    HB      0.0000
+@<TRIPOS>BOND
